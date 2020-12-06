@@ -43,6 +43,9 @@
 		display: flex;
 		flex-direction: column;
 	}
+	footer {
+		font-size: 0.75rem;
+	}
 </style>
 
 <h1>Hello world. I'm Kristy.</h1>
@@ -91,6 +94,6 @@
 </ul>
 </section>
 <footer>
-	<p>Built with Svelte, deployed ... tbd</p>
+	<p>Built with Svelte, deployed via GitHub + Netlify.</p>
 </footer>
 </div>
