@@ -19,6 +19,12 @@
 	.container {
 		position: fixed;
 	}
+	@media only screen and (max-width: 600px) {
+	.container {
+		top: 0;
+		left: 0;
+	}
+}
 </style>
 
 <div class="container">
