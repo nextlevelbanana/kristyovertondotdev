@@ -1,0 +1,29 @@
+html, body {
+	position: relative;
+}
+
+body {
+	color: #333;
+	margin: 2rem;
+	padding: 8px;
+	box-sizing: border-box;
+	background-color: #fbfbfb;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 1.2rem;
+}
+h1 {
+	font-size: 5rem;
+	padding-bottom: 1rem;
+	font-family: 'Exo 2', sans-serif;
+}
+
+a {
+	color: rgb(0,100,200);
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+
